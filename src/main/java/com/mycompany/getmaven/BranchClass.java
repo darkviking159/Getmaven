@@ -30,6 +30,11 @@ public class BranchClass {
     public void setVoornaam(String voornaam) {
         this.voornaam = voornaam;
     }
+
+    @Override
+    public String toString() {
+        return "BranchClass{" + "naam=" + naam + ", voornaam=" + voornaam + '}';
+    }
     
     
     
