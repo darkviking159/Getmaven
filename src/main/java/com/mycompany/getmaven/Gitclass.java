@@ -13,4 +13,8 @@ public class Gitclass {
     public void test(){
         System.out.println("hello world");
     }
+    
+    public void NANANA() {
+        System.out.println("hey guy!!!! SWEET CAROLINEEEEEEE");
+    }
 }
